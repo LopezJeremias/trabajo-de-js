@@ -39,3 +39,8 @@ var num1=5;
 var num2=7;
 var d= division(num1,num2);
 console.log (division(num1,num2));
+
+let array=["40","50","60"];   
+for(i=0;i<3;i++){
+console.log(array[i]);
+}
