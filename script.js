@@ -18,3 +18,4 @@ function suma(num1,num2){
     return r;
  }
  var num1=8;
+ var num2=3;
