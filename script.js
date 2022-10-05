@@ -26,3 +26,4 @@ function suma(num1,num2){
    var m= num1*num2;
    return m;
 }
+var num1=9;
