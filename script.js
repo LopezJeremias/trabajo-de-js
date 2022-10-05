@@ -61,3 +61,12 @@ var num1=5;
 var num2=7;
 var d= division(num1,num2);
 //#endregion
+//#region 
+console.log (color);
+console.log (nombre);
+console.log (apellido);
+console.log(suma(num1,num2));
+console.log (resta(num1,num2));
+console.log (multiplicacion(num1,num2));
+console.log(array[i]);
+//#endregion
