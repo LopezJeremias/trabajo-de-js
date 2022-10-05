@@ -29,3 +29,4 @@ function suma(num1,num2){
 var num1=9;
 var num2=9; 
 var m=multiplicacion(num1,num2);
+console.log (multiplicacion(num1,num2));
