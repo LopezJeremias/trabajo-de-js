@@ -27,3 +27,4 @@ function suma(num1,num2){
    return m;
 }
 var num1=9;
+var num2=9; 
