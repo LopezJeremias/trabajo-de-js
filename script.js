@@ -21,3 +21,8 @@ function suma(num1,num2){
  var num2=3;
  var r= resta (num1,num2);
  console.log (resta(num1,num2));
+
+ function multiplicacion(num1,num2){
+   var m= num1*num2;
+   return m;
+}
