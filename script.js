@@ -35,3 +35,4 @@ function division(num1,num2){
    var d= num1/num2;
    return d;
 }
+var num1=5;
