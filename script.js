@@ -70,3 +70,21 @@ console.log (resta(num1,num2));
 console.log (multiplicacion(num1,num2));
 console.log(array[i]);
 //#endregion
+//#region 
+function suma(num1,num2){
+   var s= num1+num2;
+   return s;
+}
+function resta (num1,num2){
+   var r= num1-num2;
+   return r;
+}
+function multiplicacion(num1,num2){
+   var m= num1*num2;
+   return m;
+}
+function division(num1,num2){
+   var d= num1/num2;
+   return d;
+}
+//#endregion
