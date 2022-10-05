@@ -44,3 +44,20 @@ let array=["40","50","60"];
 for(i=0;i<3;i++){
 console.log(array[i]);
 }
+//#region 
+var color= "rojo";
+let nombre2= 'juanca';
+const apellido2= `mclovin`;
+var num1=4;
+var num2=7;
+var s = suma(num1,num2);
+var num1=8;
+var num2=3;
+var r= resta (num1,num2);
+var num1=9;
+var num2=9;
+var m=multiplicacion(num1,num2);
+var num1=5;
+var num2=7;
+var d= division(num1,num2);
+//#endregion
