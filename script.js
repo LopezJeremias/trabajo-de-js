@@ -10,3 +10,4 @@ function suma(num1,num2){
  }
  var num1=4;
  var num2=7;
+ var s = suma(num1,num2);
