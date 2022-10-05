@@ -8,3 +8,4 @@ function suma(num1,num2){
     var s= num1+num2;
     return s;
  }
+ var num1=4;
