@@ -37,3 +37,4 @@ function division(num1,num2){
 }
 var num1=5;
 var num2=7;
+var d= division(num1,num2);
