@@ -12,3 +12,8 @@ function suma(num1,num2){
  var num2=7;
  var s = suma(num1,num2);
  console.log(suma(num1,num2));
+ 
+ function resta (num1,num2){
+    var r= num1-num2;
+    return r;
+ }
